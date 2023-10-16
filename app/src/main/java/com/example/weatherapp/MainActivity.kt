@@ -57,7 +57,7 @@ fun Home (){
         .padding(20.dp),
         horizontalAlignment = Alignment.CenterHorizontally){
         Text(
-            text = "WEATHER APP",
+            text = "RAIHAN",
             fontSize = 40.sp)
         BoxHeader()
         Spacer(modifier = Modifier.padding(20.dp))
